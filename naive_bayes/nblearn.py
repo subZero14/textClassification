@@ -1,6 +1,7 @@
 classes = {}
 dictA = {}
 
+# Adding a test comment
 with open("training.set", 'r') as f:
 	file_contents = f.read()	
 
