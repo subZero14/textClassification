@@ -1,0 +1,2 @@
+{'good': {'OK': 1}, 'for': {'SPAM': 1}, 'no': {'OK': 1}, 'money': {'OK': 1}, 'is': {'OK': 1}, 'online': {'SPAM': 1}, 'free': {'OK': 4, 'SPAM': 1}, 'pharmacy': {'OK': 1, 'SPAM': 3}, 'link': {'SPAM': 2}, 'time': {'OK': 4}, 'click': {'SPAM': 1}, 'today': {'OK': 2}}
+{'OK': {'cc': 5, 'pC': 0.625, 'wc': 15}, 'SPAM': {'cc': 3, 'pC': 0.375, 'wc': 9}}
